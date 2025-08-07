@@ -1,0 +1,4 @@
+/* Dark mode fixes for headings */
+.dark-mode-heading {
+  @apply text-white dark:text-white;
+}
